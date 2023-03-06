@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portafolio/static/css/main.073c9b0a.css",
-    "main.js": "/react-portafolio/static/js/main.d1e59edc.js",
-    "static/js/787.001f9897.chunk.js": "/react-portafolio/static/js/787.001f9897.chunk.js",
-    "static/media/logo.svg": "/react-portafolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-portafolio/static/css/main.33b1d20e.css",
+    "main.js": "/react-portafolio/static/js/main.298c019d.js",
+    "static/media/textEditor.png": "/react-portafolio/static/media/textEditor.1215e7004dbd51c8ad6f.png",
+    "static/media/weatherDashboard.png": "/react-portafolio/static/media/weatherDashboard.45f3cb9140ad2d312c52.png",
+    "static/media/techBlog.png": "/react-portafolio/static/media/techBlog.50b4f553d61954460384.png",
+    "static/media/takeNotes.png": "/react-portafolio/static/media/takeNotes.43a13d6b4801bf7503a6.png",
+    "static/media/hermesL.png": "/react-portafolio/static/media/hermesL.5ac2090b43eda5fac431.png",
+    "static/media/orderManager.png": "/react-portafolio/static/media/orderManager.d96d509a5ce4b4421436.png",
+    "static/media/Curriculum.pdf": "/react-portafolio/static/media/Curriculum.a3e0330a11a8f68ef610.pdf",
+    "static/media/yo.jpeg": "/react-portafolio/static/media/yo.43785e108d0928fd3131.jpeg",
+    "static/media/Logo.png": "/react-portafolio/static/media/Logo.e1c5b0199df9ac157664.png",
     "index.html": "/react-portafolio/index.html",
-    "main.073c9b0a.css.map": "/react-portafolio/static/css/main.073c9b0a.css.map",
-    "main.d1e59edc.js.map": "/react-portafolio/static/js/main.d1e59edc.js.map",
-    "787.001f9897.chunk.js.map": "/react-portafolio/static/js/787.001f9897.chunk.js.map"
+    "main.33b1d20e.css.map": "/react-portafolio/static/css/main.33b1d20e.css.map",
+    "main.298c019d.js.map": "/react-portafolio/static/js/main.298c019d.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d1e59edc.js"
+    "static/css/main.33b1d20e.css",
+    "static/js/main.298c019d.js"
   ]
 }
