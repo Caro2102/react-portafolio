@@ -3,6 +3,11 @@ import Project  from '../Project';
 import '../../styles/portfolio.css'
 import OrderManagerI from '../../images/orderManager.png';
 import HermeLogisticsI from '../../images/hermesL.png';
+import TextEditor from '../../images/textEditor.png';
+import TechBlog from '../../images/techBlog.png';
+import TakeNotes from '../../images/takeNotes.png';
+import WeatherDashboard from '../../images/weatherDashboard.png';
+
 
 function Portfolio() {
     
@@ -29,14 +34,43 @@ function Portfolio() {
         link:"https://order-manager-application.herokuapp.com/",
         gitHubLink:"https://github.com/jaime-a-esquivel-a/OrderManager",
         image: OrderManagerI,
-        tags:"Node.js, Express"
+        tags:"Node.js and Express"
     },
     {
         id: 3,
+        title:"Text Editor",
+        link:"https://whispering-ravine-93047.herokuapp.com/ ",
+        gitHubLink:"https://github.com/Caro2102/D19-TextEditor ",
+        image: TextEditor,
+        tags:"Progressive Web Apps"
+
+    },
+    {
+        id: 4,
+        title:"Tech Blog",
+        link:"https://desolate-cove-89843.herokuapp.com ",
+        gitHubLink:"https://github.com/Caro2102/D14-BloggingCMS",
+        image: TechBlog,
+        tags:"Node.js, Express, Sequelize, MySQL and Boostrap"
+
+    },
+    {
+        id: 5,
         title:"Take Notes",
         link:"https://pacific-inlet-24115.herokuapp.com ",
         gitHubLink:"https://github.com/Caro2102/D11-TakeNotes",
-        image: OrderManagerI
+        image: TakeNotes,
+        tags:"Node.js and Express"
+
+    },
+    {
+        id: 6,
+        title:"Weather Dashboard",
+        link:"https://caro2102.github.io/D6-GetTheWeather/",
+        gitHubLink:"https://github.com/Caro2102/D6-GetTheWeather",
+        image: WeatherDashboard,
+        tags:"API's and javascript"
+
     }
     ]
  
