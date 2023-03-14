@@ -7,6 +7,8 @@ import TextEditor from '../../images/textEditor.png';
 import TechBlog from '../../images/techBlog.png';
 import TakeNotes from '../../images/takeNotes.png';
 import WeatherDashboard from '../../images/weatherDashboard.png';
+import SchoolGuardian from '../../images/schoolGuardian.png';
+
 
 
 function Portfolio() {
@@ -38,6 +40,14 @@ function Portfolio() {
     },
     {
         id: 3,
+        title:"School Guardian",
+        link:"https://school-guardian.herokuapp.com/",
+        gitHubLink:"https://github.com/JorgeRamirezAnzaldo/SchoolGuardian",
+        image: SchoolGuardian,
+        tags:"MEARN"
+    },
+    {
+        id: 4,
         title:"Text Editor",
         link:"https://whispering-ravine-93047.herokuapp.com/ ",
         gitHubLink:"https://github.com/Caro2102/D19-TextEditor ",
@@ -46,7 +56,7 @@ function Portfolio() {
 
     },
     {
-        id: 4,
+        id: 5,
         title:"Tech Blog",
         link:"https://desolate-cove-89843.herokuapp.com ",
         gitHubLink:"https://github.com/Caro2102/D14-BloggingCMS",
@@ -55,7 +65,7 @@ function Portfolio() {
 
     },
     {
-        id: 5,
+        id: 6,
         title:"Take Notes",
         link:"https://pacific-inlet-24115.herokuapp.com ",
         gitHubLink:"https://github.com/Caro2102/D11-TakeNotes",
@@ -64,7 +74,7 @@ function Portfolio() {
 
     },
     {
-        id: 6,
+        id: 7,
         title:"Weather Dashboard",
         link:"https://caro2102.github.io/D6-GetTheWeather/",
         gitHubLink:"https://github.com/Caro2102/D6-GetTheWeather",
